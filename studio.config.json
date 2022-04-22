@@ -2,18 +2,9 @@
   "packages": {
     "dir": "",
     "menu": [
-      [
-        "TOKENS",
-        []
-      ],
-      [
-        "COMPONENTS",
-        []
-      ],
-      [
-        "INFRASTRUCTURE",
-        []
-      ]
+      ["TOKENS", []],
+      ["COMPONENTS", ["button"]],
+      ["INFRASTRUCTURE", ["sd-input", "sd-output", "doc-layout"]]
     ]
   }
 }
